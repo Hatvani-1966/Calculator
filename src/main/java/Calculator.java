@@ -1,3 +1,4 @@
+import java.awt.*;
 import java.util.Scanner;
 
 public class Calculator {
@@ -15,6 +16,7 @@ public class Calculator {
 
       System.out.println(name);
       System.out.println(name);
+      System.out.println("a");
   }
 
 }
