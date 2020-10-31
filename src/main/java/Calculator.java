@@ -14,6 +14,7 @@ public class Calculator {
       System.out.println("Int number"+ number);
 
       System.out.println(name);
+      System.out.println(name);
   }
 
 }
